@@ -12,3 +12,5 @@ ninth line
 tenth line
 
 just add this line
+
+Added by 2nd location
